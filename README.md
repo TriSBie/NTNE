@@ -1,6 +1,7 @@
 # NTNE
-More informations below :
-/* Screen user / guest */
+More informations below : <br/>
+Screen user / guest <br/>
 Front-end UI/UX : https://github.com/TriSBie/NTNE.git
-/* Screen admin */
+<br/>
+Screen ADMIN <br/>
 Front-end UI/UX - Back-end Admin : https://github.com/TriSBie/NTNE-ADMIN.git
